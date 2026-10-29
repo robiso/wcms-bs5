@@ -42,6 +42,9 @@ This plugin has only been tested with PHP 8.1.x, but should work with other vers
 
 ## Changelog
 
+### 1.2.4 (2026-10-29)
+* Search skips private pages (WonderCMS 3.7.0) and their subpages unless the admin is logged in.
+
 ### 1.2.3 (2024-11-25)
 * Added a better `preview.jpg` to better suit layout in official theme repo :blush:
 * License changed to AGPLv3
